@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">RegistrationPage</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="please_enter_your_details">Please enter your details.</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="email_id">Email ID</string>
+    <string name="submit">Submit</string>
 </resources>
